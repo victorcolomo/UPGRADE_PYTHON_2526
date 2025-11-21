@@ -1,0 +1,39 @@
+# --- ENTORNO VIRTUAL ---
+venv/
+.env/
+.venv/
+env/
+
+# --- ARCHIVOS DE PYCHARM ---
+.idea/
+
+# --- ARCHIVOS DE PYTHON ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# --- ARCHIVOS TEMPORALES ---
+.DS_Store
+Thumbs.db
+
+# --- LIBRERÍAS INSTALADAS (usar requirements.txt en su lugar) ---
+/*.egg-info/
+/dist/
+/build/
+/*.egg
+
+# --- ARCHIVOS DE TESTING ---
+.coverage
+pytest_cache/
+
+# --- NOTEBOOKS ---
+.ipynb_checkpoints/
+
+# --- CONFIGURACIONES ---
+*.sqlite3
+
+# --- OTROS ---
+*.bak
+*.tmp
