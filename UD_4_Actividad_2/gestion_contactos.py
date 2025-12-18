@@ -38,9 +38,3 @@ def mostrar_todos(contactos):
         for email, valor in contactos.items():
             print(f"{valor['nombre']:<20} {valor['telefono']:<15} {email:<20}")
 
-
-Persona p = new Persona()
-
-Persona p1 = p
-
-p1.setNombre("juan")
