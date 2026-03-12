@@ -1,0 +1,7 @@
+Lunes: -5.0
+Martes: -7.0
+Miercoles: -1.0
+Jueves: -8.0
+Viernes: -5.0
+Sabado: -6.0
+Domingo: -1.0

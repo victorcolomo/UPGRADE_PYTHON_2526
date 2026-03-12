@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Ana",
+        "apellido": "Perez",
+        "notas": [
+            5,
+            7,
+            8
+        ]
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Gomez",
+        "notas": [
+            8,
+            2,
+            3
+        ]
+    }
+]

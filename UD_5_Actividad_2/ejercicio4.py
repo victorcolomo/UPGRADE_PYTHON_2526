@@ -5,7 +5,6 @@
 □ __eq__ para comparar si dos personas son iguales por nombre y edad.
 □ __lt__ para comparar edades.
 '''
-
 class Persona:
     def __init__(self, nombre, edad):
         self.nombre = nombre
@@ -15,7 +14,6 @@ class Persona:
         return f"Nombre: {self.nombre}, Edad: {self.edad}"
 
     def __eq__(self, other):
-
         return isinstance(other, Persona) and self.nombre == other.nombre and self.edad == other.edad
 
     def __lt__(self, other):
